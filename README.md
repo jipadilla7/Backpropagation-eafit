@@ -1,6 +1,6 @@
 # Neural Network Mastery: Forward & Backward Propagation, Gradients, and Practical Exercises
 
-## Jorge Ivan Padilla Buritica, PhD
+## Jorge Iván Padilla Buriticá, PhD.
 ### 2025
 **Contact:** [jorgeivanpb@gmail.com](mailto:jorgeivanpb@gmail.com)
 
@@ -31,10 +31,10 @@ Each exercise includes:
 ---
 
 ## How to Use This Repository
-1. **Explore**: Begin by reviewing the detailed explanations provided in each section.
-2. **Implement**: Follow provided instructions and use example inputs to practice forward and backward propagation.
+1. **Explore**: Review the detailed explanations in each section.
+2. **Implement**: Follow the instructions and use example inputs to practice forward and backward propagation.
 3. **Analyze**: Engage with mathematical questions to deepen your understanding of neural network dynamics.
-4. **Optimize**: Apply gradient descent techniques demonstrated here to enhance network training and performance.
+4. **Optimize**: Apply the gradient descent techniques demonstrated here to enhance network training and performance.
 
 ---
 
