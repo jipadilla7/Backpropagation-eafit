@@ -1,4 +1,4 @@
-# Neural Network Mastery: Forward & Backward Propagation, Gradients, and Practical Exercises
+# Neural Networks: Forward & Backward Propagation, Gradients, and Practical Exercises
 
 ## Jorge Iván Padilla Buriticá, PhD.
 ### 2025
